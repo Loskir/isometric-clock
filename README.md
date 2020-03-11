@@ -1,4 +1,4 @@
-# bad-ux-clock
+# isometric-clock
 
 ## Demo
 <a href="http://loskir.github.io/isometric-clock" target="_blank">loskir.github.io/isometric-clock</a>
